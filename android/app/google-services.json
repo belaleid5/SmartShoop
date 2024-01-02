@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "166946871603",
+    "project_id": "smartshopuser-2ef7d",
+    "storage_bucket": "smartshopuser-2ef7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166946871603:android:988e95134d062d7fbf4646",
+        "android_client_info": {
+          "package_name": "com.example.shoop_smart_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166946871603-cm5j7scns5kvqqagob8asr3ktkb309eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiKz23wfG2fpV08ND2nb2Yt3D5b4wGJ5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166946871603-cm5j7scns5kvqqagob8asr3ktkb309eg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166946871603-0svkjm35iaohi5p37dgac1nl2aubm8ma.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopSmart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166946871603:android:cd657490bac79b75bf4646",
+        "android_client_info": {
+          "package_name": "com.example.shop_smart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166946871603-4vanli3h5sk9dpbrppep1hfsd81gl8rs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_smart",
+            "certificate_hash": "146a92eda9bd5da190fc254a916d6cab17bf2069"
+          }
+        },
+        {
+          "client_id": "166946871603-cm5j7scns5kvqqagob8asr3ktkb309eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiKz23wfG2fpV08ND2nb2Yt3D5b4wGJ5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166946871603-cm5j7scns5kvqqagob8asr3ktkb309eg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166946871603-0svkjm35iaohi5p37dgac1nl2aubm8ma.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopSmart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
